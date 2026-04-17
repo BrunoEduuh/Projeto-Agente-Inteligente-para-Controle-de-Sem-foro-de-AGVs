@@ -1,4 +1,4 @@
-#Projeto: Agente Inteligente para Controle de Semáforo de AGVs#
+Projeto: Agente Inteligente para Controle de Semáforo de AGVs
 1. Identificação do Grupo
 Instituição: Fundação Salvador Arena (FTT)
 Curso: Engenharia de Controle e Automação
